@@ -1,4 +1,4 @@
-# Intelligence artificielle
+# Artificial Intelligence 
 ## 1 - Install conda, python, pip
 
 ```bash
@@ -8,8 +8,11 @@ $ brew install --cask anaconda # for env
 ## 2 - create environment
 
 ```bash
-$ conda create -n my_env -y
+$ conda create -n my_env -y # to create the environment
 $ conda activate my_env # to activate the environment
+
+$ conda install jupyter # install jupyter + notebook
+$ jupyter notebook # lunch jupyter
 
 $ conda install python=3.7 # add python: 3.7 to ensure everything run ok
 $ python -m pip install -r requirements.txt # install all needed dependency
