@@ -10,13 +10,9 @@ $ brew install --cask anaconda # for env
 ```bash
 $ conda create -n my_env -y # to create the environment
 $ conda activate my_env # to activate the environment
-
 $ conda install jupyter # install jupyter + notebook
 $ jupyter notebook # lunch jupyter
-
 $ conda install python=3.7 # add python: 3.7 to ensure everything run ok
 $ python -m pip install -r requirements.txt # install all needed dependency
-
-$ conda deactivate # to deactivate
-
+$ conda deactivate # to deactivate after finishing work
 ```
