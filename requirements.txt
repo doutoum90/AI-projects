@@ -7,3 +7,7 @@ pandas
 jupyter
 sklearn
 seaborn
+pydot
+pydotplus
+graphviz
+pydot_ng
