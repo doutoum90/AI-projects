@@ -3,3 +3,7 @@ numpy
 tensorflow
 keras
 Pillow
+pandas
+jupyter
+sklearn
+seaborn
